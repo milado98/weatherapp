@@ -1,0 +1,23 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Stoke', serif;
+}
+
+.info {
+    background: url(/img/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 60vh;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin-top: 20px;
+}
+
