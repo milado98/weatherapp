@@ -11,7 +11,7 @@ body {
 }
 
 .info {
-    background: url(/img/bg.jpg);
+    background: url(./img/bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
